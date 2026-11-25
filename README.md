@@ -49,3 +49,11 @@ Python · pandas · NumPy · matplotlib · seaborn · scikit-learn · XGBoost ·
 
 - `covid19_mobility_analysis.ipynb`: notebook lengkap beserta output
 - `images/`: grafik hasil analisis
+
+## Dokumen dan Bukti Pengerjaan
+
+| File | Isi |
+|---|---|
+| [`laporan/paper_random_forest_covid19.pdf`](laporan/paper_random_forest_covid19.pdf) | Paper ilmiah (format IEEE) perbandingan Random Forest dan Gradient Boosting |
+
+> Data pribadi anggota tim (nama, NIM, email) sudah dihapus dari dokumen.
